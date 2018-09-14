@@ -41,8 +41,8 @@ body {
      font-family: 'Josefin Sans', sans-serif;
      -webkit-transition-duration: 1s; /* Safari */
     transition-duration: 1s;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 25px;
+    margin-left: 25px;
 }
 .button:hover {
     background-color: #393D6C;
